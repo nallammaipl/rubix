@@ -1,0 +1,113 @@
+*{
+    padding: 0;
+   
+   font-style: italic;
+}
+nav{
+    
+    background-color: blueviolet;
+    color: rgb(233, 5, 81);
+    padding: 2%;
+}
+.img{
+    background-color: blueviolet;
+}
+li,h1,ul{
+    display: inline;
+}
+ul{
+    margin-left: 60%;
+    font-size: large;
+}
+li{
+    color: rgb(218, 42, 100);
+    cursor: pointer;
+}
+li:hover{
+    color: bisque;
+}
+input{
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
+.searchbar{
+    padding: 50px;
+    text-align: center;
+    border-color: black;
+    border-width: 10px;
+    font-size: larger;
+    color: aliceblue;
+    background-color: black;
+    
+}
+.box{
+    border-color: blue;
+    border-width: 2px;
+    border-style: solid;
+    background-color: wheat;
+    display: inline-block;
+    width: 220px;
+    padding-block: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    color: blueviolet;
+}
+.cube{
+    border-color: blue;
+    border-width: 2px;
+    border-style: solid;
+    background-color: wheat;
+    display: inline-block;
+    width: 220px;
+    padding-block: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    color: blueviolet;
+    
+}
+.mirror{
+    border-color: blue;
+    border-width: 2px;
+    border-style: solid;
+    background-color: wheat;
+    display: inline-block;
+    width: 220px;
+    padding-block: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    color: blueviolet;
+    
+}
+
+.products{
+    text-align: center;
+    background-color: black;
+
+}
+
+.about{
+    text-align: center;
+    padding-top: 2px;
+    margin-top: 20px;
+    background-color: aquamarine;
+}
+.box:hover{
+    background-color: rgb(204, 95, 214);
+    
+}
+.cube:hover{
+    background-color: rgb(204, 95, 214);
+}
+.mirror:hover{
+    background-color: rgb(204, 95, 214);
+}
+.contact{
+    background-color: violet;
+    text-align: center;
+    
+    color: black;
+}
